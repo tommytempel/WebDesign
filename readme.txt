@@ -1,0 +1,1 @@
+This project will be uses to display different fonts and colors that I can reference when building a website. 

@@ -1,0 +1,19 @@
+body{
+    margin-left: 150px;
+}
+
+.colors {
+    border: 1px black solid;
+    height: 350px;
+    width: 800px;
+}
+
+.blue {
+    background-color: blue;
+    font-size: 25px;
+}
+
+.indiagreen {
+    background-color: #138808;
+    font-size: 25px;
+}
