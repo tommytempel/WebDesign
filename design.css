@@ -6,6 +6,7 @@ body{
     border: 1px black solid;
     height: 350px;
     width: 800px;
+    margin-bottom: 15px;
 }
 
 .blue {
@@ -16,4 +17,51 @@ body{
 .indiagreen {
     background-color: #138808;
     font-size: 25px;
+}
+
+.beige {
+    background-color: beige;
+    font-size: 25px;
+}
+
+.red {
+    background-color: red;
+    font-size: 25px;
+}
+
+.purple {
+    background-color: purple;
+    font-size: 25px;
+}
+
+.fonts {
+    border: 1px black solid;
+    height: 350px;
+    width: 800px;
+}
+
+
+#sans-serif {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+#fantasy {
+    font-family: fantasy;
+    font-size: 24px;
+}
+
+#monospace{
+    font-family: monospace;
+    font-size: 24px;
+}
+
+#cursive{
+    font-family: cursive;
+    font-size: 24px;
+}
+
+#serif {
+    font-family: serif;
+    font-size: 24px;
 }
