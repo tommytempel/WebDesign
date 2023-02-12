@@ -130,3 +130,37 @@ body{
 .serif h3{
     color: #CBC3E3;
 }
+
+.textstyle {
+    border: 1px black solid;
+    min-height: 350px;
+    width: 800px;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.head {
+    font-family: Cambria;
+}
+
+.head h1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.subhead {
+    font-family: 'Times New Roman';
+}
+
+.subhead h3{
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.paragraph {
+    font-family: Verdana;
+    font-weight: 500;
+    font-size: 12px;
+}
+
