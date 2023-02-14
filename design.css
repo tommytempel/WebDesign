@@ -11,6 +11,10 @@ body{
     flex-wrap: wrap;
 }
 
+.colors h1 {
+    margin-left:15px;
+}
+
 .container {
     display: flex;
     flex-direction: row;
@@ -140,6 +144,10 @@ body{
     flex-direction: column;
 }
 
+.textstyle h1 {
+    margin-left: 15px;
+}
+
 .head {
     font-family: Cambria;
 }
@@ -156,11 +164,14 @@ body{
 .subhead h3{
     font-size: 24px;
     font-weight: 100;
+    margin-left: 15px;
 }
 
 .paragraph {
     font-family: Verdana;
     font-weight: 500;
     font-size: 12px;
+    margin-left: 15px;
 }
+
 
